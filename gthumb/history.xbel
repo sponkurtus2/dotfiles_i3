@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/sponk2/Im%C3%A1genes" added="2023-12-27T04:26:47.172755Z" modified="2023-12-27T04:26:47.172798Z" visited="2023-12-27T04:26:47.172759Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2023-12-27T04:26:47.172796Z" count="2"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sponk2/V%C3%ADdeos" added="2023-12-27T04:26:47.172770Z" modified="2023-12-27T04:26:47.172779Z" visited="2023-12-27T04:26:47.172773Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2023-12-27T04:26:47.172777Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sponk2/Descargas" added="2023-12-27T04:26:47.172782Z" modified="2023-12-27T04:26:47.172792Z" visited="2023-12-27T04:26:47.172786Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2023-12-27T04:26:47.172789Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
